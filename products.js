@@ -201,36 +201,36 @@ const itemsInfo = {
     title: "املت",
     image: "images/omelette.jpg",
     description: "تخم‌مرغ هم‌زده با سبزیجات یا پنیر؛ صبحانه‌ای گرم و خوشمزه.",
-    price: ""
+    price: "85"
   },
   "sausage-egg": {
     title: "سوسیس تخم‌مرغ",
     image: "images/sausage-egg.jpg",
     description: "ترکیب سوسیس سرخ‌شده و تخم‌مرغ؛ انتخابی انرژی‌زا برای شروع روز.",
-    price: ""
+    price: "110"
   },
   "fried-egg": {
     title: "نیمرو",
     image: "images/fried-egg.jpg",
     description: "تخم‌مرغ سرخ‌شده ساده با نمک و فلفل؛ کلاسیک و خوشمزه.",
-    price: ""
+    price: "70"
   },
   "sausage-tomato": {
     title: "سوسیس ربی",
     image: "images/sausage-tomato.jpg",
     description: "سوسیس تفت‌داده‌شده در رب گوجه؛ طعمی قوی و لذیذ.",
-    price: ""
+    price: "110"
   },
   "panini": {
     title: "پنینی ژامبون",
     image: "images/panini.jpg",
     description: "ساندویچ گرم شده با ژامبون، پنیر و نان پرس‌شده.",
-    price: ""
+    price: "150"
   },
   "peanut-toast": {
     title: "تست کره بادام‌زمینی",
     image: "images/peanut-toast.jpg",
     description: "نان تست شده با کره بادام‌زمینی؛ سالم، خوشمزه و مقوی.",
-    price: ""
+    price: "120"
   }
 };
