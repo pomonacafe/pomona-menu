@@ -146,7 +146,7 @@ const itemsInfo = {
   "affogato": {
     title: "آفوگاتو",
     image: "images/affogato.jpg",
-    description: "آفوگاتو",
+    description: "آفوگاتو ترکیبی از بستنی وانیلی و اسپرسوی داغ. طعم سرد و شیرین بستنی با تلخی اسپرسو، یک تجربه خاص و متفاوت",
     price: "110"
   },
   "banana-milk": {
