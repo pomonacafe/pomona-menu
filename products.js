@@ -146,7 +146,7 @@ const itemsInfo = {
   "afogato": {
     title: "آفوگاتو",
     image: "images/avocado.jpg",
-    description: " .",
+    description: "  ",
     price: "110"
   },
   "banana-milk": {
