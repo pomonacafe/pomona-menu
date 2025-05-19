@@ -143,7 +143,7 @@ const itemsInfo = {
     description: "شربت سنتی ایرانی با طعم‌هایی مانند بهارنارنج، زعفران یا گل محمدی.",
     price: "60"
   },
-  "afogato": {
+  "affogato": {
     title: "آفوگاتو",
     image: "images/affogato.jpg",
     description: "آفوگاتو",
