@@ -143,10 +143,10 @@ const itemsInfo = {
     description: "شربت سنتی ایرانی با طعم‌هایی مانند بهارنارنج، زعفران یا گل محمدی.",
     price: "60"
   },
-  "avocado": {
-    title: "آووکادو",
+  "afogato": {
+    title: آفوگاتو",
     image: "images/avocado.jpg",
-    description: "نوشیدنی‌ای خاص و مغذی از پوره آووکادو و شیر؛ نرم و مقوی.",
+    description: " .",
     price: "110"
   },
   "banana-milk": {
