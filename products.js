@@ -183,19 +183,19 @@ const itemsInfo = {
     title: "کیک روز",
     image: "images/daily-cake.jpg",
     description: "کیک تازه و خانگی که هر روز متفاوت است. از صندوق بپرسید.",
-    price: "؟"
+    price: "85"
   },
   "cookie": {
     title: "کوکی",
     image: "images/cookie.jpg",
     description: "بیسکوییت‌های نرم با چیپس شکلات یا طعم‌های متنوع.",
-    price: "؟"
+    price: "70"
   },
   "flavoring": {
     title: "طعم‌دهنده",
     image: "images/flavoring.jpg",
     description: "افزودنی‌های طعم‌دار مانند وانیل، کارامل، فندق و غیره.",
-    price: "؟"
+    price: "20"
   },
   "omelette": {
     title: "املت",
