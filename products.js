@@ -144,7 +144,7 @@ const itemsInfo = {
     price: "60"
   },
   "afogato": {
-    title: آفوگاتو",
+    title: "آفوگاتو",
     image: "images/avocado.jpg",
     description: " .",
     price: "110"
