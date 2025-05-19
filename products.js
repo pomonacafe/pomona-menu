@@ -27,7 +27,7 @@ const itemsInfo = {
     title: "موکا",
     image: "images/mocha.jpg",
     description: "ترکیب شکلات داغ، اسپرسو و شیر؛ نوشیدنی‌ای شیرین و خوشمزه.",
-    price: "70 - 45"
+    price: "105 - 95"
   },
   "hot-chocolate": {
     title: "هات چاکلت",
