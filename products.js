@@ -225,12 +225,12 @@ const itemsInfo = {
     title: "پنینی ژامبون",
     image: "images/panini.jpg",
     description: "ساندویچ گرم شده با ژامبون، پنیر و نان پرس‌شده.",
-    price: "150"
+    price: "160"
   },
   "peanut-toast": {
     title: "تست کره بادام‌زمینی",
     image: "images/peanut-toast.jpg",
     description: "نان تست شده با کره بادام‌زمینی؛ سالم، خوشمزه و مقوی.",
-    price: "120"
+    price: "130"
   }
 };
