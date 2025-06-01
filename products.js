@@ -33,28 +33,28 @@ const itemsInfo = {
   "macchiato": {
     title: "ماکیاتو",
     image: "images/macchiato.jpg",
-    description: "ماکیاتو",
+    description: "ماکیاتو ترکیبی ساده و قوی از اسپرسو با مقدار کمی فوم شیر است که طعمی متعادل، غلیظ و جذاب برای عاشقان قهوه خالص دارد",
     price: "70 - 60"
   },
 
   "piccolo": {
     title: "پیکولو",
     image: "images/piccolo.jpg",
-    description: "پیکولو",
+    description: "پیکولو نوشیدنی‌ای کوچک و خوش‌عطر از اسپرسو و شیر بخار داده‌شده است که بافتی مخملی و طعمی متعادل را در حجمی کم ارائه می‌دهد",
     price: "70 - 60"
   },
 
   "cortado": {
     title: "کورتادو",
     image: "images/cortado.jpg",
-    description: "کورتادو",
+    description: "کورتادو ترکیبی دقیق از اسپرسو و مقدار مساوی شیر گرم است که طعمی متعادل، نرم و بدون تلخی زیاد به همراه دارد",
     price: "70 - 60"
   },
 
   "americano": {
     title: "امریکانو",
     image: "images/americano.jpg",
-    description: "امریکانو",
+    description: "آمریکانو از رقیق کردن اسپرسو با آب داغ تهیه می‌شود. این نوشیدنی طعمی سبک‌تر از اسپرسو دارد اما همچنان عطر و قدرت قهوه را حفظ می‌کند",
     price: "65 - 55"
   },
 
