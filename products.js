@@ -15,47 +15,47 @@ const itemsInfo = {
     title: "کاپوچینو",
     image: "images/cappuccino.jpg",
     description: "ترکیب مساوی اسپرسو، شیر داغ و کف شیر؛ نوشیدنی‌ای متعادل و خامه‌ای.",
-    price: "75 - 65"
+    price: "80 - 70"
   },
   "latte": {
     title: "لاته",
     image: "images/latte.jpg",
     description: "شات اسپرسو با مقدار زیادی شیر داغ و کمی کف؛ مناسب برای کسانی که طعم ملایم‌تری می‌خواهند.",
-    price: "85 - 75"
+    price: "90 - 80"
   },
   "mocha": {
     title: "موکا",
     image: "images/mocha.jpg",
     description: "ترکیب شکلات داغ، اسپرسو و شیر؛ نوشیدنی‌ای شیرین و خوشمزه.",
-    price: "105 - 95"
+    price: "110 - 100"
   },
   
   "macchiato": {
     title: "ماکیاتو",
     image: "images/macchiato.jpg",
     description: "ماکیاتو ترکیبی ساده و قوی از اسپرسو با مقدار کمی فوم شیر است که طعمی متعادل، غلیظ و جذاب برای عاشقان قهوه خالص دارد",
-    price: "70 - 60"
+    price: "75 - 65"
   },
 
   "piccolo": {
     title: "پیکولو",
     image: "images/piccolo.jpg",
     description: "پیکولو نوشیدنی‌ای کوچک و خوش‌عطر از اسپرسو و شیر بخار داده‌شده است که بافتی مخملی و طعمی متعادل را در حجمی کم ارائه می‌دهد",
-    price: "70 - 60"
+    price: "75 - 65"
   },
 
   "cortado": {
     title: "کورتادو",
     image: "images/cortado.jpg",
     description: "کورتادو ترکیبی دقیق از اسپرسو و مقدار مساوی شیر گرم است که طعمی متعادل، نرم و بدون تلخی زیاد به همراه دارد",
-    price: "70 - 60"
+    price: "75 - 65"
   },
 
   "americano": {
     title: "امریکانو",
     image: "images/americano.jpg",
     description: "آمریکانو از رقیق کردن اسپرسو با آب داغ تهیه می‌شود. این نوشیدنی طعمی سبک‌تر از اسپرسو دارد اما همچنان عطر و قدرت قهوه را حفظ می‌کند",
-    price: "65 - 55"
+    price: "70 - 60"
   },
 
   
@@ -123,7 +123,7 @@ const itemsInfo = {
     title: "موز شکلات",
     image: "images/milkshake-banana-chocolate.jpg",
     description: "ترکیبی دل‌پذیر از بستنی، موز و شکلات برای تجربه‌ای شیرین و خاص.",
-    price: "120"
+    price: "130"
   },
   "milkshake-nutella": {
     title: "نوتلا",
@@ -135,13 +135,13 @@ const itemsInfo = {
     title: "اوروئو",
     image: "images/milkshake-oreo.jpg",
     description: "میلک‌شیکی با بیسکوییت‌های اورئو خردشده؛ شیرین، ترد و خاص.",
-    price: "110"
+    price: "120"
   },
   "milkshake-peanut": {
     title: "کره بادام‌زمینی",
     image: "images/milkshake-peanut.jpg",
     description: "نوشیدنی‌ای مقوی با طعم کره بادام‌زمینی و شیر؛ خاص و انرژی‌زا.",
-    price: "120"
+    price: "130"
   },
   "milkshake-espresso": {
     title: "اسپرسو",
@@ -177,7 +177,7 @@ const itemsInfo = {
     title: "آفوگاتو",
     image: "images/affogato.jpg",
     description: "آفوگاتو ترکیبی از بستنی وانیلی و اسپرسوی داغ. طعم سرد و شیرین بستنی با تلخی اسپرسو، یک تجربه خاص و متفاوت",
-    price: "110"
+    price: "130"
   },
   "banana-milk": {
     title: "شیر موز",
@@ -195,19 +195,19 @@ const itemsInfo = {
     title: "آیس لاته",
     image: "images/ice-latte.jpg",
     description: "ترکیب شیر سرد با شات اسپرسو و یخ؛ نوشیدنی‌ای ملایم و خنک.",
-    price: "90 - 80"
+    price: "95 - 85"
   },
   "ice-mocha": {
     title: "آیس موکا",
     image: "images/ice-mocha.jpg",
     description: "ترکیبی شیرین و شکلاتی از قهوه و شیر خنک با یخ.",
-    price: "110 - 100"
+    price: "115 - 105"
   },
   "ice-americano": {
     title: "آیس امریکانو",
     image: "images/ice-americano.jpg",
     description: "آب سرد ترکیب‌شده با اسپرسو برای طعمی ساده، تلخ و خنک.",
-    price: "75 - 65"
+    price: "80 - 70"
   },
   "daily-cake": {
     title: "کیک روز",
