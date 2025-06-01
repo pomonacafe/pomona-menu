@@ -237,7 +237,7 @@ const itemsInfo = {
     title: "سوسیس تخم‌مرغ",
     image: "images/sausage-egg.jpg",
     description: "ترکیب سوسیس سرخ‌شده و تخم‌مرغ؛ انتخابی انرژی‌زا برای شروع روز.",
-    price: "120"
+    price: "130"
   },
   "fried-egg": {
     title: "نیمرو",
@@ -249,7 +249,7 @@ const itemsInfo = {
     title: "سوسیس ربی",
     image: "images/sausage-tomato.jpg",
     description: "سوسیس تفت‌داده‌شده در رب گوجه؛ طعمی قوی و لذیذ.",
-    price: "120"
+    price: "130"
   },
   "panini": {
     title: "پنینی ژامبون",
