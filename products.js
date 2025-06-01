@@ -29,6 +29,36 @@ const itemsInfo = {
     description: "ترکیب شکلات داغ، اسپرسو و شیر؛ نوشیدنی‌ای شیرین و خوشمزه.",
     price: "105 - 95"
   },
+  
+  "macchiato": {
+    title: "ماکیاتو",
+    image: "images/macchiato.jpg",
+    description: "ماکیاتو",
+    price: "70 - 60"
+  },
+
+  "piccolo": {
+    title: "پیکولو",
+    image: "images/piccolo.jpg",
+    description: "پیکولو",
+    price: "70 - 60"
+  },
+
+  "cortado": {
+    title: "کورتادو",
+    image: "images/cortado.jpg",
+    description: "کورتادو",
+    price: "70 - 60"
+  },
+
+  "americano": {
+    title: "امریکانو",
+    image: "images/americano.jpg",
+    description: "امریکانو",
+    price: "65 - 55"
+  },
+
+  
   "hot-chocolate": {
     title: "هات چاکلت",
     image: "images/hot-chocolate.png",
