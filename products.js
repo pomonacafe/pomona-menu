@@ -231,7 +231,7 @@ const itemsInfo = {
     title: "املت",
     image: "images/omelette.jpg",
     description: "تخم‌مرغ هم‌زده با سبزیجات یا پنیر؛ صبحانه‌ای گرم و خوشمزه.",
-    price: "85"
+    price: "90"
   },
   "sausage-egg": {
     title: "سوسیس تخم‌مرغ",
