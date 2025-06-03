@@ -243,7 +243,7 @@ const itemsInfo = {
     title: "نیمرو",
     image: "images/fried-egg.jpg",
     description: "تخم‌مرغ سرخ‌شده ساده با نمک و فلفل؛ کلاسیک و خوشمزه.",
-    price: "75"
+    price: "80"
   },
   "sausage-tomato": {
     title: "سوسیس ربی",
