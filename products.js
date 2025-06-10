@@ -258,7 +258,7 @@ const itemsInfo = {
     price: "160"
   },
     "bread-cheese": {
-    title: "نون و پنیر",
+    title: "نان و پنیر",
     image: "images/bread-cheese.jpg",
     description: "نان و پنیر.",
     price: "80"
