@@ -257,6 +257,12 @@ const itemsInfo = {
     description: "ساندویچ گرم شده با ژامبون، پنیر و نان پرس‌شده.",
     price: "160"
   },
+    "bread-cheese": {
+    title: "نون و پنیر",
+    image: "images/bread-cheese.jpg",
+    description: "نان و پنیر.",
+    price: "80"
+  },
   "peanut-toast": {
     title: "تست کره بادام‌زمینی",
     image: "images/peanut-toast.jpg",
