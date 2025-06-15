@@ -231,7 +231,7 @@ const itemsInfo = {
     title: "املت",
     image: "images/omelette.jpg",
     description: "تخم‌مرغ هم‌زده با سبزیجات یا پنیر؛ صبحانه‌ای گرم و خوشمزه.",
-    price: "90"
+    price: "95"
   },
   "sausage-egg": {
     title: "سوسیس تخم‌مرغ",
@@ -249,7 +249,7 @@ const itemsInfo = {
     title: "سوسیس ربی",
     image: "images/sausage-tomato.jpg",
     description: "سوسیس تفت‌داده‌شده در رب گوجه؛ طعمی قوی و لذیذ.",
-    price: "130"
+    price: "135"
   },
   "panini": {
     title: "پنینی ژامبون",
