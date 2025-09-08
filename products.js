@@ -225,25 +225,25 @@ const itemsInfo = {
     title: "طعم‌دهنده",
     image: "images/flavoring.jpg",
     description: "افزودنی‌های طعم‌دار مانند وانیل، کارامل، فندق و غیره.",
-    price: "20"
+    price: "30"
   },
   "omelette": {
     title: "املت",
     image: "images/omelette.jpg",
     description: "تخم‌مرغ هم‌زده با سبزیجات یا پنیر؛ صبحانه‌ای گرم و خوشمزه.",
-    price: "95"
+    price: "100"
   },
   "sausage-egg": {
     title: "سوسیس تخم‌مرغ",
     image: "images/sausage-egg.jpg",
     description: "ترکیب سوسیس سرخ‌شده و تخم‌مرغ؛ انتخابی انرژی‌زا برای شروع روز.",
-    price: "130"
+    price: "135"
   },
   "fried-egg": {
     title: "نیمرو",
     image: "images/fried-egg.jpg",
     description: "تخم‌مرغ سرخ‌شده ساده با نمک و فلفل؛ کلاسیک و خوشمزه.",
-    price: "85"
+    price: "90"
   },
   "sausage-tomato": {
     title: "سوسیس ربی",
@@ -270,3 +270,4 @@ const itemsInfo = {
     price: "130"
   }
 };
+
