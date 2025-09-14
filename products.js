@@ -1,9 +1,15 @@
 const itemsInfo = {
-  "espresso": {
+  "espresso 80-20": {
     title: "اسپرسو",
     image: "images/espresso.jpg",
     description: "یک شات غلیظ و قوی از قهوه، پایه اصلی بسیاری از نوشیدنی‌های دیگر.",
     price: "60 - 45"
+  },
+  "espresso-50-50": {
+    title: "اسپرسو 50-50",
+    image: "images/espresso.jpg",
+    description: "شات اسپرسو با ترکیب دانه ۵۰-۵۰؛ مناسب برای طعم متعادل‌تر.",
+    price: "75 - 60"
   },
   "v60": {
     title: "دمی (v60)",
@@ -270,5 +276,6 @@ const itemsInfo = {
     price: "140"
   }
 };
+
 
 
