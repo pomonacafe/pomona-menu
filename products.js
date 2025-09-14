@@ -245,6 +245,12 @@ const itemsInfo = {
     description: "ترکیب سوسیس سرخ‌شده و تخم‌مرغ؛ انتخابی انرژی‌زا برای شروع روز.",
     price: "145"
   },
+  "sausage-egg-special": {
+    title: "سوسیس تخم‌مرغ مخصوص",
+    image: "images/sausage-egg.jpg",
+    description: "نسخهٔ ویژهٔ سوسیس‌تخم‌مرغ با مواد بیشتر",
+    price: "160"
+  },
   "fried-egg": {
     title: "نیمرو",
     image: "images/fried-egg.jpg",
@@ -282,6 +288,7 @@ const itemsInfo = {
     price: "140"
   }
 };
+
 
 
 
