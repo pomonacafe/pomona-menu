@@ -14,7 +14,7 @@ const itemsInfo = {
   "arabica-100": {
     title: "عربیکا 100",
     image: "images/arabica-100.jpg",
-    description: "عربیکا 100 درصد.",
+    description: "اسپرسو با دانه‌های ۱۰۰٪ عربیکا؛ عطر بالا و تلخی کمتر.",
     price: "85 - 70"
   },
   "v60": {
@@ -294,6 +294,7 @@ const itemsInfo = {
     price: "140"
   }
 };
+
 
 
 
