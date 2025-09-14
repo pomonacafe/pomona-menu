@@ -1,6 +1,6 @@
 const itemsInfo = {
-  "espresso 80-20": {
-    title: "اسپرسو",
+  "espresso-80-20": {
+    title: "80-20 اسپرسو",
     image: "images/espresso.jpg",
     description: "یک شات غلیظ و قوی از قهوه، پایه اصلی بسیاری از نوشیدنی‌های دیگر.",
     price: "60 - 45"
@@ -282,6 +282,7 @@ const itemsInfo = {
     price: "140"
   }
 };
+
 
 
 
