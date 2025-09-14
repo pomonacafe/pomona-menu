@@ -249,7 +249,7 @@ const itemsInfo = {
     title: "سوسیس تخم‌مرغ مخصوص",
     image: "images/sausage-egg.jpg",
     description: "نسخهٔ ویژهٔ سوسیس‌تخم‌مرغ با مواد بیشتر",
-    price: "160"
+    price: "190"
   },
   "fried-egg": {
     title: "نیمرو",
@@ -288,6 +288,7 @@ const itemsInfo = {
     price: "140"
   }
 };
+
 
 
 
