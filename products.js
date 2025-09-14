@@ -263,6 +263,12 @@ const itemsInfo = {
     description: "ساندویچ گرم شده با ژامبون، پنیر و نان پرس‌شده.",
     price: "175"
   },
+  "panini-omelette": {
+    title: "پنینی املت",
+    image: "images/panini.jpg",
+    description: "پنینی گرم با املت تازه و پنیر؛ ساندویچی سبک و سیرکننده.",
+    price: "145"
+  },
     "bread-cheese": {
     title: "نان و پنیر",
     image: "images/bread-cheese.jpg",
@@ -276,6 +282,7 @@ const itemsInfo = {
     price: "140"
   }
 };
+
 
 
 
