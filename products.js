@@ -11,6 +11,12 @@ const itemsInfo = {
     description: "شات اسپرسو با ترکیب دانه ۵۰-۵۰؛ مناسب برای طعم متعادل‌تر.",
     price: "75 - 60"
   },
+  "arabica-100": {
+    title: "عربیکا 100",
+    image: "images/arabica-100.jpg",
+    description: "عربیکا 100 درصد.",
+    price: "85 - 70"
+  },
   "v60": {
     title: "دمی (v60)",
     image: "images/v60.jpg",
@@ -288,6 +294,7 @@ const itemsInfo = {
     price: "140"
   }
 };
+
 
 
 
