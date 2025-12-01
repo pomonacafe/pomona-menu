@@ -21,46 +21,46 @@ const itemsInfo = {
     title: "دمی (v60)",
     image: "images/v60.jpg",
     description: "قهوه‌ای ملایم با طعمی شفاف که با دستگاه V60 دم می‌شود.",
-    price: "140"
+    price: "150"
   },
   "cappuccino": {
     title: "کاپوچینو",
     image: "images/cappuccino.jpg",
     description: "ترکیب مساوی اسپرسو، شیر داغ و کف شیر؛ نوشیدنی‌ای متعادل و خامه‌ای.",
-    price: "95 - 80"
+    price: "100 - 85"
   },
   "latte": {
     title: "لاته",
     image: "images/latte.jpg",
     description: "شات اسپرسو با مقدار زیادی شیر داغ و کمی کف؛ مناسب برای کسانی که طعم ملایم‌تری می‌خواهند.",
-    price: "105 - 90"
+    price: "110 - 95"
   },
   "mocha": {
     title: "موکا",
     image: "images/mocha.jpg",
     description: "ترکیب شکلات داغ، اسپرسو و شیر؛ نوشیدنی‌ای شیرین و خوشمزه.",
-    price: "135 - 120"
+    price: "140 - 125"
   },
   
   "macchiato": {
     title: "ماکیاتو",
     image: "images/macchiato.jpg",
     description: "ماکیاتو ترکیبی ساده و قوی از اسپرسو با مقدار کمی فوم شیر است که طعمی متعادل، غلیظ و جذاب برای عاشقان قهوه خالص دارد",
-    price: "95 - 80"
+    price: "100 - 85"
   },
 
   "piccolo": {
     title: "پیکولو",
     image: "images/piccolo.jpg",
     description: "پیکولو نوشیدنی‌ای کوچک و خوش‌عطر از اسپرسو و شیر بخار داده‌شده است که بافتی مخملی و طعمی متعادل را در حجمی کم ارائه می‌دهد",
-    price: "95 - 80"
+    price: "100 - 85"
   },
 
   "cortado": {
     title: "کورتادو",
     image: "images/cortado.jpg",
     description: "کورتادو ترکیبی دقیق از اسپرسو و مقدار مساوی شیر گرم است که طعمی متعادل، نرم و بدون تلخی زیاد به همراه دارد",
-    price: "95 - 80"
+    price: "100 - 85"
   },
 
   "americano": {
@@ -75,31 +75,31 @@ const itemsInfo = {
     title: "هات چاکلت",
     image: "images/hot-chocolate.png",
     description: "نوشیدنی گرم و شیرین تهیه‌شده از شیر و پودر شکلات با بافتی نرم و خامه‌ای.",
-    price: "90"
+    price: "95"
   },
   "white-chocolate": {
     title: "وایت چاکلت",
     image: "images/white-chocolate.jpg",
     description: "نوشیدنی گرم تهیه‌شده از شکلات سفید و شیر، با طعمی لطیف و شیرین.",
-    price: "90"
+    price: "95"
   },
   "choco-milk": {
     title: "شیر کاکائو",
     image: "images/choco-milk.jpg",
     description: "ترکیب شیر سرد یا گرم با پودر کاکائو؛ نوشیدنی‌ای انرژی‌بخش و نوستالژیک.",
-    price: "100"
+    price: "110"
   },
   "karak-tea": {
     title: "چای کرک",
     image: "images/karak-tea.jpg",
     description: "چای سنتی هندی با شیر، هل و شکر که طعمی گرم و معطر دارد.",
-    price: "90"
+    price: "95"
   },
   "masala-tea": {
     title: "چای ماسالا",
     image: "images/masala-tea.jpg",
     description: "چای معطر هندی با ترکیبی از ادویه‌های خاص، شیر و شکر.",
-    price: "85"
+    price: "90"
   },
   "pistachio-milk": {
     title: "شیر پسته",
@@ -117,49 +117,49 @@ const itemsInfo = {
     title: "چای طعم‌دار",
     image: "images/flavored-tea.jpg",
     description: "چای معطر با طعم‌های میوه‌ای یا گیاهی متنوع برای سلیقه‌های خاص.",
-    price: "65"
+    price: "70"
   },
   "herbal": {
     title: "دمنوش",
     image: "images/herbal.jpg",
     description: "نوشیدنی‌ای آرام‌بخش و گیاهی از ترکیب گل‌ها و گیاهان دارویی.",
-    price: "65"
+    price: "70"
   },
   "milkshake-chocolate": {
     title: "شکلات",
     image: "images/milkshake-chocolate.jpg",
     description: "میلک‌شیک شکلاتی غلیظ با طعم قوی و شیرین برای دوست‌داران شکلات.",
-    price: "140"
+    price: "150"
   },
   "milkshake-banana-chocolate": {
     title: "موز شکلات",
     image: "images/milkshake-banana-chocolate.jpg",
     description: "ترکیبی دل‌پذیر از بستنی، موز و شکلات برای تجربه‌ای شیرین و خاص.",
-    price: "160"
+    price: "170"
   },
   "milkshake-nutella": {
     title: "نوتلا",
     image: "images/milkshake-nutella.jpg",
     description: "میلک‌شیکی غنی از نوتلا با طعمی فندقی-شکلاتی که عاشقش می‌شوید.",
-    price: "180"
+    price: "190"
   },
   "milkshake-oreo": {
     title: "اوروئو",
     image: "images/milkshake-oreo.jpg",
     description: "میلک‌شیکی با بیسکوییت‌های اورئو خردشده؛ شیرین، ترد و خاص.",
-    price: "160"
+    price: "170"
   },
   "milkshake-peanut": {
     title: "کره بادام‌زمینی",
     image: "images/milkshake-peanut.jpg",
     description: "نوشیدنی‌ای مقوی با طعم کره بادام‌زمینی و شیر؛ خاص و انرژی‌زا.",
-    price: "160"
+    price: "170"
   },
   "milkshake-espresso": {
     title: "اسپرسو",
     image: "images/milkshake-espresso.jpg",
     description: "میلک‌شیکی خنک و قهوه‌ای برای دوست‌داران اسپرسو با حس تازگی.",
-    price: "170"
+    price: "180"
   },
   "mojito": {
     title: "موهیتو",
@@ -183,13 +183,13 @@ const itemsInfo = {
     title: "شربت",
     image: "images/syrup-drink.jpg",
     description: "شربت سنتی ایرانی با طعم‌هایی مانند بهارنارنج، زعفران یا گل محمدی.",
-    price: "65"
+    price: "70"
   },
   "affogato": {
     title: "آفوگاتو",
     image: "images/affogato.jpg",
     description: "آفوگاتو ترکیبی از بستنی وانیلی و اسپرسوی داغ. طعم سرد و شیرین بستنی با تلخی اسپرسو، یک تجربه خاص و متفاوت",
-    price: "150"
+    price: "160"
   },
   "banana-milk": {
     title: "شیر موز",
@@ -207,13 +207,13 @@ const itemsInfo = {
     title: "آیس لاته",
     image: "images/ice-latte.jpg",
     description: "ترکیب شیر سرد با شات اسپرسو و یخ؛ نوشیدنی‌ای ملایم و خنک.",
-    price: "110 - 95"
+    price: "115 - 100"
   },
   "ice-mocha": {
     title: "آیس موکا",
     image: "images/ice-mocha.jpg",
     description: "ترکیبی شیرین و شکلاتی از قهوه و شیر خنک با یخ.",
-    price: "140 - 125"
+    price: "145 - 130"
   },
   "ice-americano": {
     title: "آیس امریکانو",
@@ -243,13 +243,13 @@ const itemsInfo = {
     title: "املت",
     image: "images/omelette.jpg",
     description: "تخم‌مرغ هم‌زده با سبزیجات یا پنیر؛ صبحانه‌ای گرم و خوشمزه.",
-    price: "120"
+    price: "130"
   },
   "sausage-egg": {
     title: "سوسیس تخم‌مرغ",
     image: "images/sausage-egg.jpg",
     description: "ترکیب سوسیس سرخ‌شده و تخم‌مرغ؛ انتخابی انرژی‌زا برای شروع روز.",
-    price: "160"
+    price: "170"
   },
   "sausage-egg-special": {
     title: "سوسیس تخم‌مرغ مخصوص",
@@ -261,13 +261,13 @@ const itemsInfo = {
     title: "نیمرو",
     image: "images/fried-egg.jpg",
     description: "تخم‌مرغ سرخ‌شده ساده با نمک و فلفل؛ کلاسیک و خوشمزه.",
-    price: "110"
+    price: "120"
   },
   "sausage-tomato": {
     title: "سوسیس ربی",
     image: "images/sausage-tomato.jpg",
     description: "سوسیس تفت‌داده‌شده در رب گوجه؛ طعمی قوی و لذیذ.",
-    price: "160"
+    price: "170"
   },
   "panini": {
     title: "پنینی ژامبون",
@@ -279,7 +279,7 @@ const itemsInfo = {
     title: "پنینی املت",
     image: "images/panini.jpg",
     description: "پنینی گرم با املت تازه و پنیر؛ ساندویچی سبک و سیرکننده.",
-    price: "155"
+    price: "160"
   },
     "bread-cheese": {
     title: "نان و پنیر",
@@ -294,6 +294,7 @@ const itemsInfo = {
     price: "150"
   }
 };
+
 
 
 
